@@ -12,20 +12,20 @@ SenseAI-Chat_Assistant is an AI-powered chatbot integrating NVIDIA’s API and L
 2. `llama.py`: Main script.
 
 ### Steps:
-1. **Create Environment**:
+1. **Create Environment:**
    ```bash
    python -m venv venv
-2. **Activate Environment**:
-   - Windows:
+2. **Activate Environment:**
+   - Windows
      ```bash
      venv\Scripts\activate
-   - Linux/Mac:
+   - Linux/Mac
      ```bash
      source venv/bin/activate
-3. **Install Dependencies**:
+3. **Install Dependencies:**
    ```bash
      pip install -r requirements.txt
-4. **Run Application**:
+4. **Run Application:**
    ```bash
      python llama.py
 
