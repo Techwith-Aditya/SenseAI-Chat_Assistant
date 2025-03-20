@@ -30,6 +30,8 @@
 #             print(chunk.choices[0].delta.content, end="")
 #     print("\n")
 
+
+# For responses in batch:
 import os
 import time
 from dotenv import load_dotenv
